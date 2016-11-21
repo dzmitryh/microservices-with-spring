@@ -4,12 +4,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>by.spring.cloud.config</groupId>
-	<artifactId>lab-3-server</artifactId>
+	<artifactId>config-server-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>lab-3-server</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Config Server spring boot app</description>
 
 	<parent>
 		<groupId>org.springframework.cloud</groupId>
