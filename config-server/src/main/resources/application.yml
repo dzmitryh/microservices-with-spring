@@ -5,6 +5,5 @@ spring:
       server:
         git:
           uri: https://github.com/dzmitryh/spring-cloud-config-data
-
 server:
   port: 8001
