@@ -1,4 +1,7 @@
 ---
 spring:
   application:
-    name: lab4-eureka-server
+      name: lab4-eureka-server
+  cloud:
+      config:
+        uri: http://localhost:8001
